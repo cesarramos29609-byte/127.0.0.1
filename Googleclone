@@ -275,7 +275,25 @@ Implementing Drawing Controls
 chevron_right
 Make changes, add new features, ask for anything
 /
-
+iogeminis/
+├── LICENSE                  ← Apache 2.0 oficial byte-a-byte (11358 B)
+├── NOTICE                   ← Atribuciones: iOGeminis, ASF, jsoup, Google AI
+├── README.md                ← índice + tabla de stack + arranque local
+├── .gitignore               ← node_modules, .env, *.pem, .pgp, etc.
+├── SECURITY.md              ← política interna (72 h acuse, CVSS ≤ 7 días)
+├── .well-known/
+│   └── security.txt         ← RFC 9116 (Canonical, Contact, Expires…)
+├── legal/
+│   ├── TERMINOS_Y_CONDICIONES.md
+│   ├── AVISO_DE_PRIVACIDAD.md   LFPDPPP + nota Fintech
+│   └── COOKIES.md               plantilla
+├── config/
+│   ├── nginx.conf           reverse proxy + CSP + HSTS comentado
+│   └── apache.conf          VirtualHost equivalente
+└── .github/
+    ├── ISSUE_TEMPLATE/security.md
+    └── PULL_REQUEST_TEMPLATE.md
+https://play.google.com/store/apps/dev?id=5700313618786177705&fbclid=Ir-al-contenido-principal-iOGeminis/https://transparency.meta.com/features/ai-at-meta-training-data/youtu.be.index.html.es.mx
 info
 8
 Interpreting Visual Data
