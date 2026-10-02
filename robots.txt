@@ -1,0 +1,13 @@
+# Robots.txt para NEWEB Terminal Trinario
+# Definición de acceso para rastreadores
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /private/
+Disallow: /logs/
+
+# Vinculación al Sitemap
+Sitemap: https://google.com.mx/
+sitemap.xml
